@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: H:\PCB-Reviews\2023\Victor Kartsch\gap9_deck_v2\Crazyflie_Shield.PcbDoc
+RuleKind=Width|RuleName=Width_50OHM|Scope=Board|Minimum=2.95
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_PolyTopLayer|Scope=Board|Minimum=0.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=1.97
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_VIA|Scope=Board|Minimum=-3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=2.95
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=2.95
+RuleKind=Clearance|RuleName=Clearance_HS|Scope=Board|Minimum=3.54
+RuleKind=Clearance|RuleName=Clearance_MEM|Scope=Board|Minimum=7.09

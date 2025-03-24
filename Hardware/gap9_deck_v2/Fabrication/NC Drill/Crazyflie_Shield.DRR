@@ -1,0 +1,59 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Crazyflie_Shield.PcbDoc   7/26/2023  3:49:08 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : F.Cu to B.Cu
+ASCII Plated RoundHoles File : Crazyflie_Shield-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      6mil (0.15mm)                                             Round             252       PTH        18.18inch (461.85mm)
+T3      8mil (0.2mm)                                              Round             26        PTH        3.96inch (100.64mm)
+T4      32mil (0.8mm)                                             Round             20        PTH        2.28inch (58.00mm)
+T5      63mil (1.6mm)                                             Round             2         PTH        0.75inch (19.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              300
+Layer Pair : F.Cu to Layer 1
+ASCII Plated RoundHoles File : Crazyflie_Shield-Plated.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)                                              Round             87        PTH        3.28inch (83.39mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              87
+Layer Pair : Layer 1 to Layer 2
+ASCII Plated RoundHoles File : Crazyflie_Shield-Plated.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)                                              Round             42        PTH        1.68inch (42.59mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              42
+Layer Pair : Layer 2 to Layer 3
+ASCII Plated RoundHoles File : Crazyflie_Shield-Plated.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      6mil (0.15mm)                                             Round             27        PTH        1.46inch (37.06mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              27
+Layer Pair : Layer 3 to Layer 4
+ASCII Plated RoundHoles File : Crazyflie_Shield-Plated.TX4
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)                                              Round             25        PTH        1.16inch (29.44mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              25
+Layer Pair : Layer 4 to B.Cu
+ASCII Plated RoundHoles File : Crazyflie_Shield-Plated.TX5
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)                                              Round             25        PTH        1.30inch (33.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              25
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              506
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,7 @@
+Layer Pairs Export File for PCB: H:\PCB-Reviews\2023\Victor Kartsch\gap9_deck_v2\Crazyflie_Shield.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=crazyflie_shield-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=F.Cu_1_Blind_Vias|DrillFile=crazyflie_shield-plated.tx1|DrillLayers=gtl,g1
+LayersSetName=1_2_Buried_Vias|DrillFile=crazyflie_shield-plated.tx2|DrillLayers=g1,g2
+LayersSetName=2_3_Buried_Vias|DrillFile=crazyflie_shield-plated.tx3|DrillLayers=g2,g3
+LayersSetName=3_4_Buried_Vias|DrillFile=crazyflie_shield-plated.tx4|DrillLayers=g3,g4
+LayersSetName=4_B.Cu_Blind_Vias|DrillFile=crazyflie_shield-plated.tx5|DrillLayers=g4,gbl
